@@ -1,0 +1,7 @@
+In this lecture only we discussed that Perceptron 
+only work with liner or sort of linear data it can't
+work with non linear data that is the main disadvantage
+of perceptron.
+
+So, we need multi layer perceptron that can work on the 
+non-linear data easily.
